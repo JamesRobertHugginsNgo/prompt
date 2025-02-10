@@ -1,7 +1,7 @@
 # prompt
 
 - [Boilerplate](src/script.js)
-- [Sample Page](sample/script.js)
+- [Sample Script](sample/script.js)
 
 ## References
 
