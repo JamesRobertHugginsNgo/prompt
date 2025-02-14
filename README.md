@@ -4,6 +4,9 @@
 [![Static Badge](https://img.shields.io/badge/GitHub%20Page-4078c0)](https://jamesroberthugginsngo.github.io/prompt/)
 [![Static Badge](https://img.shields.io/badge/Tag-1.2.0-6cc644)](https://github.com/JamesRobertHugginsNgo/prompt/tree/1.2.0)
 
+A simple and customizable prompt utility for Node.js that allows users to enter values interactively in the terminal.
+
+
 ## Boilerplate
 
 [index.js](./src/index.js)
