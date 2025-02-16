@@ -1,4 +1,4 @@
-import prompt, { showInstruction } from '../src/script.js';
+import prompt, { showInstruction } from '../src/index.js';
 
 showInstruction();
 const userName = await prompt('User Name', { defaultValue: 'user', stdout: process.stderr });
