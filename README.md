@@ -12,7 +12,7 @@ A simple and customizable prompt utility for Node.js that allows users to enter 
 [index.js](./src/index.js)
 
 ```
-npx github:JamesRobertHugginsNgo/get-boilerplate#3.0.0 https://github.com/JamesRobertHugginsNgo/prompt/blob/1.2.1/src/index.js prompt.js
+npx github:JamesRobertHugginsNgo/get-boilerplate#5.0.0 https://github.com/JamesRobertHugginsNgo/prompt/blob/1.2.1/src/index.js prompt.js
 ```
 
 ## Sample
