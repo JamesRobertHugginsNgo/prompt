@@ -2,7 +2,7 @@
 
 [![Static Badge](https://img.shields.io/badge/GitHub%20Repo-6e5494)](https://github.com/JamesRobertHugginsNgo/prompt)
 [![Static Badge](https://img.shields.io/badge/GitHub%20Page-4078c0)](https://jamesroberthugginsngo.github.io/prompt/)
-[![Static Badge](https://img.shields.io/badge/Tag-1.2.1-6cc644)](https://github.com/JamesRobertHugginsNgo/prompt/tree/1.2.1)
+[![Static Badge](https://img.shields.io/badge/Latest_Tag-1.2.1-6cc644)](https://github.com/JamesRobertHugginsNgo/prompt/tree/1.2.1)
 
 A simple and customizable prompt utility for Node.js that allows users to enter values interactively in the terminal.
 
