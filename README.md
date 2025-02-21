@@ -9,15 +9,22 @@ A simple and customizable prompt utility for Node.js that allows users to enter 
 
 ## Boilerplate
 
-[index.js](./src/index.js)
+[index.ts](./dist/index.js)
 
 ```
-npx github:JamesRobertHugginsNgo/get-boilerplate#5.0.0 https://github.com/JamesRobertHugginsNgo/prompt/blob/1.2.1/src/index.js prompt.js
+npx github:JamesRobertHugginsNgo/get-boilerplate#5.0.0 https://github.com/JamesRobertHugginsNgo/prompt/blob/develop/dist/index.js prompt.js
+```
+
+[index.ts](./src/index.ts)
+
+```
+npx github:JamesRobertHugginsNgo/get-boilerplate#5.0.0 https://github.com/JamesRobertHugginsNgo/prompt/blob/develop/src/index.ts prompt.ts
 ```
 
 ## Sample
 
 - [sample.js](./sample/sample.js)
+- [sample.ts](./sample/sample.ts)
 
 ## References
 
