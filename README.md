@@ -7,7 +7,7 @@
 A simple and customizable prompt utility for Node.js that allows users to enter values interactively in the terminal.
 
 
-## Boilerplate
+## Boilerplates
 
 [index.ts](./dist/index.js)
 
@@ -21,7 +21,7 @@ npx github:JamesRobertHugginsNgo/get-boilerplate#5.0.0 https://github.com/JamesR
 npx github:JamesRobertHugginsNgo/get-boilerplate#5.0.0 https://github.com/JamesRobertHugginsNgo/prompt/blob/develop/src/index.ts prompt.ts
 ```
 
-## Sample
+## Samples
 
 - [sample.js](./sample/sample.js)
 - [sample.ts](./sample/sample.ts)
