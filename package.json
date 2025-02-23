@@ -13,7 +13,7 @@
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "tsc ./src/index.ts --outDir ./dist --target es6 --moduleResolution Node && npx prettier --write ./dist/index.js",
+    "build": "tsc ./src/*.ts --outDir ./dist --target es6 --moduleResolution Node && npx prettier --write ./dist/*.js",
     "js-sample": "node ./sample/sample.js",
     "ts-sample": "tsx ./sample/sample.ts"
   },
