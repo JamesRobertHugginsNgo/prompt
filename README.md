@@ -9,7 +9,7 @@ A NodeJS module for command line prompt.
 ## Codes
 
 - [prompt.ts](./src/prompt.ts) [<img alt="Raw" height="16" src="https://img.shields.io/badge/RAW-blue?style=flat">](https://raw.githubusercontent.com/JamesRobertHugginsNgo/prompt/refs/tags/3.0.0/src/prompt.ts)
-- [prompt.ts](./dist/prompt.js) [<img alt="Raw" height="16" src="https://img.shields.io/badge/RAW-blue?style=flat">](https://raw.githubusercontent.com/JamesRobertHugginsNgo/prompt/refs/tags/3.0.0/dist/prompt.js)
+- [prompt.js](./dist/prompt.js) [<img alt="Raw" height="16" src="https://img.shields.io/badge/RAW-blue?style=flat">](https://raw.githubusercontent.com/JamesRobertHugginsNgo/prompt/refs/tags/3.0.0/dist/prompt.js)
 
 ## Samples
 
