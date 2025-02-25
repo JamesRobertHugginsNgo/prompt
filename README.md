@@ -15,8 +15,8 @@ A NodeJS module for command line prompt.
 - [prompt.ts](./src/prompt.ts) | [raw](https://raw.githubusercontent.com/JamesRobertHugginsNgo/prompt/refs/tags/TAG_NAME/src/prompt.ts)
 - [prompt.js](./dist/prompt.js) | [raw](https://raw.githubusercontent.com/JamesRobertHugginsNgo/prompt/refs/tags/TAG_NAME/dist/prompt.js) 
 -->
-- [prompt.ts](./src/prompt.ts) | [raw](https://raw.githubusercontent.com/JamesRobertHugginsNgo/prompt/refs/tags/3.0.1/src/prompt.ts)
-- [prompt.js](./dist/prompt.js) | [raw](https://raw.githubusercontent.com/JamesRobertHugginsNgo/prompt/refs/tags/3.0.1/dist/prompt.js)
+- [prompt.ts](./src/prompt.ts) | [raw](./src/prompt.ts?raw=1)
+- [prompt.js](./dist/prompt.js) | [raw](./dist/prompt.js?raw=1)
 
 ## Samples
 
