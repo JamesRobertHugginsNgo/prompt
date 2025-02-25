@@ -6,10 +6,10 @@
 
 A NodeJS module for command line prompt.
 
-## Codes
+## Boilerplates
 
-- [prompt.ts](./src/prompt.ts) [<img alt="Raw" height="16" src="https://img.shields.io/badge/RAW-blue?style=flat" valign="middle">](https://raw.githubusercontent.com/JamesRobertHugginsNgo/prompt/refs/tags/3.0.0/src/prompt.ts)
-- [prompt.js](./dist/prompt.js) [<img alt="Raw" height="16" src="https://img.shields.io/badge/RAW-blue?style=flat" valign="middle">](https://raw.githubusercontent.com/JamesRobertHugginsNgo/prompt/refs/tags/3.0.0/dist/prompt.js)
+- [prompt.ts](./src/prompt.ts) [[raw](https://raw.githubusercontent.com/JamesRobertHugginsNgo/prompt/refs/tags/3.0.0/src/prompt.ts)]
+- [prompt.js](./dist/prompt.js) [[raw](https://raw.githubusercontent.com/JamesRobertHugginsNgo/prompt/refs/tags/3.0.0/dist/prompt.js)]
 
 ## Samples
 
