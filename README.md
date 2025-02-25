@@ -2,7 +2,7 @@
 
 [![Open in Github](https://img.shields.io/badge/Open_in_GitHub-6e5494)](https://github.com/JamesRobertHugginsNgo/prompt)
 [![Open in Github Page](https://img.shields.io/badge/Open_in_GitHub%20Page-4078c0)](https://jamesroberthugginsngo.github.io/prompt/)
-[![Open Latest Tag](https://img.shields.io/badge/Open_Latest_Tag-3.0.1-6cc644)](https://github.com/JamesRobertHugginsNgo/prompt/tree/3.0.1)
+[![Open Latest Tag](https://img.shields.io/badge/Open_Latest_Tag-3.0.2-6cc644)](https://github.com/JamesRobertHugginsNgo/prompt/tree/3.0.2)
 
 A NodeJS module for command line prompt.
 
