@@ -6,7 +6,7 @@
 
 A NodeJS module for command line prompt.
 
-## Boilerplates
+## Reusable Code
 
 - [prompt.ts](./src/prompt.ts) \| [raw](./src/prompt.ts?raw=1)
 - [prompt.js](./dist/prompt.js) \| [raw](./dist/prompt.js?raw=1)
