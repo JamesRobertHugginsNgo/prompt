@@ -8,8 +8,8 @@ A NodeJS module for command line prompt.
 
 ## Raws
 
-- [prompt.ts](https://raw.githubusercontent.com/JamesRobertHugginsNgo/prompt/refs/heads/2.0.0/src/prompt.ts)
-- [prompt.js](https://raw.githubusercontent.com/JamesRobertHugginsNgo/prompt/refs/heads/2.0.0/dist/prompt.ts)
+- [prompt.ts](https://raw.githubusercontent.com/JamesRobertHugginsNgo/prompt/refs/heads/develop/src/prompt.ts)
+- [prompt.js](https://raw.githubusercontent.com/JamesRobertHugginsNgo/prompt/refs/heads/develop/dist/prompt.js)
 
 ## Samples
 
