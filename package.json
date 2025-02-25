@@ -9,11 +9,25 @@
     "email": "jamesroberthugginsngo@gmail.com",
     "url": "https://jamesroberthugginsngo.github.io"
   },
+  "homepage": "https://github.com/JamesRobertHugginsNgo/prompt#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesRobertHugginsNgo/prompt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JamesRobertHugginsNgo/prompt/issues"
+  },
   "type": "module",
-  "main": "./src/index.js",
+  "main": "./src/prompt.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/prompt.d.ts",
+      "default": "./dist/prompt.js"
+    }
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "tsc ./src/*.ts --outDir ./dist --target es6 --moduleResolution Node && npx prettier --write ./dist/*.js",
+    "build": "tsc ./src/*.ts --outDir ./dist --declaration --moduleResolution Node --target es6 && npx prettier --write ./dist/*.[jt]s",
     "js-sample": "node ./sample/sample.js",
     "ts-sample": "tsx ./sample/sample.ts"
   },

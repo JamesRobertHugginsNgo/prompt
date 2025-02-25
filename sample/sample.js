@@ -1,4 +1,6 @@
-import prompt, { showInstruction } from '../dist/index.js';
+import prompt, { INSTRUCTION, showInstruction } from '../dist/prompt.js';
+
+console.log(INSTRUCTION);
 
 showInstruction();
 const userName = await prompt('User Name', { defaultValue: 'user', stdout: process.stderr });

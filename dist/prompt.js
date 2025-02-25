@@ -1,4 +1,3 @@
-/* BOILERPLATE */
 export const INSTRUCTION =
 	"Enter a value and press Enter to proceed, or Ctrl+C to cancel";
 export default function prompt(
