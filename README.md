@@ -6,7 +6,7 @@
 
 A NodeJS module for command line prompt.
 
-## Reusable Code
+## Reusable Codes
 
 Use the raw link to quickly download the raw source code.
 
