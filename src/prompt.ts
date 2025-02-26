@@ -11,7 +11,7 @@ export default function prompt(message: string, {
 	stdin?: NodeJS.ReadStream,
 	stdout?: NodeJS.WriteStream
 } = {}): Promise<string> {
-	const input: Array<string> = [];
+	const input: string[] = [];
 
 	stdout.write(`${message}: `);
 	if (defaultValue) {
