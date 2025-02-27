@@ -1,4 +1,4 @@
-export const INSTRUCTION = 'Enter a value and press Enter to proceed, or Ctrl+C to cancel';
+export const INSTRUCTION: string = 'Enter a value and press Enter to proceed, or Ctrl+C to cancel';
 
 export default function prompt(message: string, {
 	defaultValue,
@@ -69,7 +69,7 @@ export default function prompt(message: string, {
 						break forLabel;
 					default: {
 						input.push(char);
-						let display: string | undefined;
+						let display: undefined | string;
 						if (maskChar) {
 							display = maskChar[0];
 						} else if (maskChar !== '') {
@@ -86,10 +86,8 @@ export default function prompt(message: string, {
 	});
 }
 
-export function showInstruction({
-	stdout = process.stdout
-}: {
-	stdout?: NodeJS.WriteStream
-} = {}): void {
+export function showInstruction(
+	{ stdout = process.stdout }: { stdout?: NodeJS.WriteStream } = {}
+): void {
 	stdout.write(`\x1B[2m${INSTRUCTION}\x1B[0m\n`);
 }

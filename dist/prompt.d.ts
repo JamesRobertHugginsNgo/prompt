@@ -1,5 +1,4 @@
-export declare const INSTRUCTION =
-	"Enter a value and press Enter to proceed, or Ctrl+C to cancel";
+export declare const INSTRUCTION: string;
 export default function prompt(
 	message: string,
 	{
