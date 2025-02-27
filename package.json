@@ -1,6 +1,6 @@
 {
   "name": "prompt",
-  "version": "3.0.2",
+  "version": "3.1.0",
   "description": "A NodeJS module for command line prompt.",
   "keywords": [],
   "license": "MIT",
